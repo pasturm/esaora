@@ -1,5 +1,5 @@
 # esaora
-### RStudio Addin to insert " = \".
+### RStudio Addin to insert " = ".
 
 The esaora package (Equal Sign Assignment Operator RStudio Addin) provides a 
 RStudio addin which inserts " = " at the cursor position. The addin can be bound 
