@@ -1,10 +1,10 @@
-Package: esaora
+Package: esaorsa
 Type: Package
-Title: RStudio Addin to insert " = ".
+Title: RStudio Addin to insert " = "
 Version: 0.1.0
 Author: Patrick Sturm
 Maintainer: Patrick Sturm <sturm@tofwerk.com>
-Description: The esaora package (Equal Sign Assignment Operator RStudio Addin)
+Description: The esaorsa package (Equal Sign Assignment Operator RStudio Addin)
     provides a RStudio addin which inserts " = " at the cursor position.
     The addin can be bound to a keyboard shortcut (e.g. Alt+- to replace the 
     Rstudio shortcut for " <- ").
