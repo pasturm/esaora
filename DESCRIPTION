@@ -1,15 +1,15 @@
-Package: esaorsa
+Package: irrsa
 Type: Package
-Title: RStudio Addin to insert " = "
-Version: 0.1.0
+Title: RStudio Addins to insert or replace text.
+Version: 0.1.1
 Author: Patrick Sturm
 Maintainer: Patrick Sturm <sturm@tofwerk.com>
-Description: The esaorsa package (Equal Sign Assignment Operator RStudio Addin)
-    provides a RStudio addin which inserts " = " at the cursor position.
-    The addin can be bound to a keyboard shortcut (e.g. Alt+- to replace the 
-    Rstudio shortcut for " <- ").
+Description: The irrsa (Insert or Replace RStudio Addins) package provides a 
+    RStudio addin which inserts " = " at the cursor position and an addin which
+    replaces "\" with "/". The addins can be bound to keyboard shortcuts 
+    (e.g. Alt+- to replace the Rstudio shortcut for " <- " with " = ").
 License: GPL-3
 Imports: rstudioapi (>= 0.4)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1

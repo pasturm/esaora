@@ -2,3 +2,8 @@ Name: Insert " = "
 Description: Inserts " = " at the cursor position.
 Binding: insertEqualSignAddin
 Interactive: false
+
+Name: Replace "\" with "/"
+Description: Replaces "\" with "/" in the selected text.
+Binding: replaceBackWithForwardSlashAddin
+Interactive: false

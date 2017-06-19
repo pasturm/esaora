@@ -1,14 +1,15 @@
-# esaorsa
-### RStudio Addin to insert " = ".
+# irrsa
+### RStudio Addins to insert or replace text.
 
-The esaorsa package (Equal Sign Assignment Operator RStudio Addin) provides a 
-RStudio addin which inserts " = " at the cursor position. The addin can be bound 
-to a keyboard shortcut (e.g. Alt+- to replace the Rstudio shortcut for " <- ").
+The irrsa (Insert or Replace RStudio Addins) package provides a RStudio addin 
+which inserts " = " at the cursor position and an addin which replaces "\\" with
+"/". The addins can be bound to keyboard shortcuts (e.g. Alt+- to replace the 
+Rstudio shortcut for " <- " with " = ").
 
 ### Installation
 ```
 install.packages("devtools")
-devtools::install_github("pasturm/esaorsa")
+devtools::install_github("pasturm/irrsa")
 ```
 
 ### How to assign a keyboard shortcut in RStudio to the addin
@@ -17,4 +18,4 @@ devtools::install_github("pasturm/esaorsa")
 * Add the shortcut (e.g. Alt+-) to Insert " = ".
 
 ### Version history
-See [NEWS](https://github.com/pasturm/esaorsa/blob/master/News.md).
+See [NEWS](https://github.com/pasturm/irrsa/blob/master/News.md).
