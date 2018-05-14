@@ -1,13 +1,15 @@
 Package: irrsa
 Type: Package
 Title: RStudio Addins to insert or replace text.
-Version: 0.1.1
+Version: 0.1.2
 Author: Patrick Sturm
 Maintainer: Patrick Sturm <sturm@tofwerk.com>
 Description: The irrsa (Insert or Replace RStudio Addins) package provides a 
     RStudio addin which inserts " = " at the cursor position and an addin which
     replaces "\" with "/". The addins can be bound to keyboard shortcuts 
     (e.g. Alt+- to replace the Rstudio shortcut for " <- " with " = ").
+URL: https://github.com/pasturm/irrsa
+BugReports: https://github.com/pasturm/irrsa/issues
 License: GPL-3
 Imports: rstudioapi (>= 0.4)
 Encoding: UTF-8

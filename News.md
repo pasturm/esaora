@@ -1,3 +1,8 @@
+### Version 0.1.2
+
+* added URL and BugReports fields to DESCRIPTION.
+
+
 ### Version 0.1.1
 
 * added `replaceBackWithForwardSlashAddin()` function.
