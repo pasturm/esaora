@@ -1,7 +1,7 @@
 Package: irrsa
 Type: Package
-Title: RStudio Addins to insert or replace text.
-Version: 0.1.2
+Title: RStudio Addins to insert or replace text
+Version: 0.1.3
 Author: Patrick Sturm
 Maintainer: Patrick Sturm <sturm@tofwerk.com>
 Description: The irrsa (Insert or Replace RStudio Addins) package provides a 
