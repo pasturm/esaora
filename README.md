@@ -1,7 +1,9 @@
 # R package irrsa: RStudio Addins to insert or replace text 
-[![Travis build status](https://travis-ci.org/pasturm/irrsa.svg?branch=master)](https://travis-ci.org/pasturm/irrsa)
+<!-- badges: start -->
+[![R build status](https://github.com/pasturm/irrsa/workflows/R-CMD-check/badge.svg)](https://github.com/pasturm/irrsa/actions)
+<!-- badges: end -->
 
-The irrsa (Insert or Replace RStudio Addins) package currently provides two 
+The irrsa (Insert or Replace RStudio Addin) package currently provides two 
 RStudio addins:
 
 * An addin which inserts ` = ` at the cursor position. This is convenient if you
